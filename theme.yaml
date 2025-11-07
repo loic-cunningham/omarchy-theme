@@ -1,0 +1,22 @@
+name: Nagai Twilight
+slug: nagai-twilight
+version: 0.1.0
+description: "A warm dusk-inspired Omarchy theme with deep twilight hues."
+license: MIT
+maintainers:
+  - name: mcw
+    email: ""
+tags: [dark, warm, twilight]
+palette: palette.yml
+apps:
+  - alacritty
+  - waybar
+  - hyprland
+  - mako
+  - btop
+  - walker
+  - neovim
+  - chromium
+  - icons
+notes: |
+  Standalone theme project. No symlinks or Omarchy runtime integration yet.
